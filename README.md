@@ -40,8 +40,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,javascript,html,css,bootstrap,tailwind,react,redux,jquery" alt="Frontend Skills" /><br>
   <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github" alt="Backend & Tools Skills" />
-  <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/Asp.net.png?raw=true" alt="ASP.NET" height="40" /><br>
-  <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/SQL%20server.png?raw=true" alt="SQL Server" height="40" />
+  <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/Asp.net.png?raw=true" alt="ASP.NET" height="50" /><br>
+  <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/SQL%20server.png?raw=true" alt="SQL Server" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database Skills" />
 </p>
 
