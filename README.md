@@ -59,7 +59,7 @@ Here are some of the key projects I've worked on.
       <strong>Technologies:</strong>
       <p>
         <img src="https://skillicons.dev/icons?i=cs,dotnet,bootstrap,javascript" alt="Job Portal Tech" />
-        <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/Asp.net.png?raw=true" alt="ASP.NET" height="40" />
+        <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/Asp.net.png?raw=true" alt="ASP.NET" height="53" />
       </p>
       <a href="https://github.com/Abhishek2077/ASPNET-Job-Portal"><strong>View Code &rarr;</strong></a>
     </td>
@@ -72,7 +72,7 @@ Here are some of the key projects I've worked on.
       <p>
         <img src="https://skillicons.dev/icons?i=cs,dotnet,bootstrap,javascript,jquery" alt="MiniBank Tech" />
         <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/Asp.net.png?raw=true" alt="ASP.NET" height="40" />
-        <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/SQL%20server.png?raw=true" alt="SQL Server" height="40" />
+        <img src="https://github.com/Abhishek2077/Abhishek2077/blob/main/SQL%20server.png?raw=true" alt="SQL Server" height="53" />
       </p>
       <a href="https://github.com/Abhishek2077/MiniBank"><strong>View Code &rarr;</strong></a>
     </td>
